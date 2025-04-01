@@ -82,4 +82,4 @@ python scripts/inference.py --model_name llama3_8B --data_path ./data/test_data.
 - **Inference Function**: The model processes batches of input data, and for each batch, predictions are made. Sensitive attributes are used to calculate fairness metrics (EO and DP).
 
 ## Citation
-> Ji, Yuelyu, Wenhe Ma, Sonish Sivarajkumar, Hang Zhang, Eugene Mathew Sadhu, Zhuochun Li, Xizhi Wu, Shyam Visweswaran, and Yanshan Wang. "*Mitigating the Risk of Health Inequity Exacerbated by Large Language Models*" NPJ Digital Medicine. 2025.
+> Ji, Yuelyu, Wenhe Ma, Sonish Sivarajkumar, Hang Zhang, Eugene Mathew Sadhu, Zhuochun Li, Xizhi Wu, Shyam Visweswaran, and Yanshan Wang. "*Mitigating the Risk of Health Inequity Exacerbated by Large Language Models.*" NPJ Digital Medicine. 2025.
