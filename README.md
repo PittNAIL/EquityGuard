@@ -16,7 +16,7 @@
 To use EquityGuard, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/JoyDajunSpaceCraft/EquityGuard.git
+git clone https://github.com/PittNAIL/EquityGuard.git
 cd EquityGuard
 pip install -r requirements.txt
 ```
